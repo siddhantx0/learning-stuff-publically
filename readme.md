@@ -6,6 +6,7 @@
     ![alt text](image-1.png)
     chapter 1: functions and data.
         terms:
+            1.0 - 1.4?
             1. functions
             2. data
             3. result
@@ -23,11 +24,21 @@
                 a. ![alt text](image-7.png)
                 b. ![alt text](image-8.png)
             15. ![alt text](image-9.png)
+            1.5 ~ symbols
+            16. integer
+            17. symbol
+            18. ![alt text](image-10.png)
+            19. ![alt text](image-11.png)
+                a. ![alt text](image-12.png)
+            1.7 ~ "some" simple predicates
+            20. ![alt text](image-13.png)
+            21. ![alt text](image-14.png)
+            22. ![alt text](image-15.png)
+            23. ![alt text](image-16.png)
+
 # GNU / C
 # linkedin people that might be amazing cool.
 ![alt text](image-2.png)
-
 # highly cool shit on github
     1. https://gist.github.com/hayden-donnelly/483eb5182beabec3805e5d5ddf022806
-
 # end
