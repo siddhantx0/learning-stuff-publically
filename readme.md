@@ -42,6 +42,8 @@
 1. https://ia802604.us.archive.org/28/items/gray-hat-hacking-the-ethical-hackers-handbook-pdfdrive/Beginning%20Ethical%20Hacking%20with%20Kali%20Linux_%20Computational%20Techniques%20for%20Resolving%20Security%20Issues%20%28%20PDFDrive%20%29.pdf
 2. https://download.parallels.com/stm/v6/docs/en/Parallels_Desktop_Users_Guide.pdf (failed... to buy kali linux)
 
+# XboX (Microsoft)
+
 # ecma-script (javascript on crack)
 1. https://stackoverflow.com/questions/68563985/parse-pdf-with-cypress
 2. https://www.lambdatest.com/automation-testing-advisor/javascript/cypress-parse
