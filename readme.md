@@ -41,4 +41,9 @@
 ![alt text](image-2.png)
 # highly cool shit on github
     1. https://gist.github.com/hayden-donnelly/483eb5182beabec3805e5d5ddf022806
+    2. https://github.com/ggerganov/llama.cpp
 # end
+~ notes for me:
+1. is there really something called an aura?
+2. what the fuck does that mean: aura.
+3. thank you for watching me learn @internet. siddhantx0.com out. love and best, siddhant singh
