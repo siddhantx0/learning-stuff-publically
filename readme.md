@@ -26,3 +26,8 @@
 # GNU / C
 # linkedin people that might be amazing cool.
 ![alt text](image-2.png)
+
+# highly cool shit on github
+    1. https://gist.github.com/hayden-donnelly/483eb5182beabec3805e5d5ddf022806
+
+# end
