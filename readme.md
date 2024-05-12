@@ -38,6 +38,8 @@
 
 # GNU / C
 
+# Oracle8 (98 is preferable because i'm already doing 8)
+
 # kali linux
 1. https://ia802604.us.archive.org/28/items/gray-hat-hacking-the-ethical-hackers-handbook-pdfdrive/Beginning%20Ethical%20Hacking%20with%20Kali%20Linux_%20Computational%20Techniques%20for%20Resolving%20Security%20Issues%20%28%20PDFDrive%20%29.pdf
 2. https://download.parallels.com/stm/v6/docs/en/Parallels_Desktop_Users_Guide.pdf (failed... to buy kali linux)
@@ -65,3 +67,4 @@
 2. what the fuck does that mean: aura.
 3. thank you for watching me learn @internet. siddhantx0.com out. love and best, siddhant singh
 4. ![alt text](image-17.png)
+5. ![alt text](image-18.png)
