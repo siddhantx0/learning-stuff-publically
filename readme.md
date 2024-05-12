@@ -64,3 +64,4 @@
 1. is there really something called an aura?
 2. what the fuck does that mean: aura.
 3. thank you for watching me learn @internet. siddhantx0.com out. love and best, siddhant singh
+4. ![alt text](image-17.png)
