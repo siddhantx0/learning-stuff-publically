@@ -6,3 +6,5 @@ https://lichess.org/@/Kingscrusher-YouTube/blog/epic-top-100-finish-in-lichess-s
 https://ecma-international.org/wp-content/uploads/ECMA-262_13th_edition_june_2022.pdfgit
 
 https://lichess.org/QPw6NzxN4Hiv
+
+![alt text](image-4.png)
