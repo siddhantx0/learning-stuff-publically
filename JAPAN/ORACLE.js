@@ -6,4 +6,5 @@
 	Object.entries;
 	Object.getOwnPropertyDescriptor;
 	("dotall/spread operators/unicode property escapes/look behind assertions");
+	("#buy beo vcoin#");
 }
